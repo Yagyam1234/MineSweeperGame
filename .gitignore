@@ -1,0 +1,27 @@
+# Unreal Engine .gitignore
+# Binaries folder
+Binaries/
+# Intermediate folder
+Intermediate/
+# Saved folder
+Saved/
+# Build folder
+Build/
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# DerivedDataCache
+DerivedDataCache/
+# Plugin binaries and intermediate files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
