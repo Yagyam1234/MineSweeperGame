@@ -20,6 +20,7 @@ Build/
 *.lo
 *.o
 *.obj
+.idea/
 # DerivedDataCache
 DerivedDataCache/
 # Plugin binaries and intermediate files
